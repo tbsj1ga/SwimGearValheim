@@ -1,0 +1,9 @@
+{
+  "name": "SwimGear",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/tbsj1ga/SwimGearValheim",
+  "description": "Keep your weapons and tools in your hands while swimming. Built for zero FPS cost - no stack trace on every swim check. Client-side, configurable.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
